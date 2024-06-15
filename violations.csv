@@ -1,0 +1,13 @@
+Violation Code,Violation Description,Fine,Additional Penalty
+VC1,Driving without a valid license or conductor's permit,P3000.00,Paying the fine results in a one-year driving disqualification.
+VC2,Driving a vehicle used in the commission of a crime,P10000.00, Permanent license revocation and impounded vehicle released upon fine payment.
+VC3,Committing a crime during apprehension,P10000.00,Five-year license disqualification released upon fine payment.
+VC4,Driving under the influence of alcohol/drugs/similar substances,P1000.00,12-month suspension for non-professional licenses; perpetual for professionals.
+VC5,Reckless driving,P2000.00, 12-month suspension for non-professional licenses; perpetual for professionals.
+VC6,Submitting fake documents for a driver's license application,P3000.00, License revocation and one-year driving disqualification upon fine payment.
+VC7,Failure to wear the prescribed seatbelt,P1000.00 ,Third and subsequent offenses: one-week license suspension upon fine payment.
+VC8,Neglecting to ensure passengers wear prescribed seatbelts,P3000,N/A
+VC9,Failure to wear a standard protective motorcycle helmet or require back rider to wear one,P1500.00,N/A
+VC10,Failure to carry Driver's License/Certificate of Registration/Official Receipt while driving,P1000.00,N/A
+VC11,Overspeeding,1500,PHP 10000 and Revocation of Driver's License
+VC13,Arrogant Driver,300,50
